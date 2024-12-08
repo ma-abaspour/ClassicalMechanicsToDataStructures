@@ -1,4 +1,4 @@
-### From Classical Mechanics To Data Structures
+### Some Initial Ideas
 1. Euclidean Geometry: Foundations of Mathematical Reasoning
 2. Algebraic Structures: Groups, Rings, and Fields
 3. Newtonian Calculus: Differential and Integral Foundations
